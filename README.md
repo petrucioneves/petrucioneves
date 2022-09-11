@@ -1,6 +1,6 @@
-### Olá! Eu sou o Petrucio Neves
+## Olá! Eu sou o Petrucio Neves
 
-## Sou estudande de Engenharia de Computação, na Universidade Federal do Ceará - Campus Quixadá.
+### Sou estudande de Engenharia de Computação, na Universidade Federal do Ceará - Campus Quixadá.
 
 <div>
   <a href="https://github.com/petrucioneves">
